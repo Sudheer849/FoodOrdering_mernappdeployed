@@ -1,0 +1,10 @@
+.buy_image{
+    background-image: url('./bbc.png');
+    background-size: cover;
+    height: 50vh;
+    width : 100vh;
+    background-position: center;
+    margin: auto;
+    color: #f5f5f5;
+    position: 'absolute';
+  }
